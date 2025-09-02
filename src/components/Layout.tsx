@@ -107,7 +107,7 @@ export const Layout = ({ children }: LayoutProps) => {
                   <Twitter className="h-5 w-5" />
                 </motion.a>
                 <motion.a
-                  href="mailto:ud4yg@yandex.com"
+                  href="mailto:luckyethanmiller0520@gmail.com"
                   className="text-muted-foreground hover:text-brand-purple transition-colors bg-secondary p-3 rounded-full"
                   whileHover={{ scale: 1.1 }}
                   whileTap={{ scale: 0.95 }}

@@ -7,14 +7,14 @@ const ContactInfo = () => {
     {
       icon: <Mail className="h-5 w-5 text-brand-purple" />,
       title: "Email",
-      details: "ud4yg@yandex.com",
-      link: "mailto:ud4yg@yandex.com",
+      details: "luckyethanmiller0520@gmail.com",
+      link: "mailto:luckyethanmiller0520@gmail.com",
     },
     {
       icon: <MapPin className="h-5 w-5 text-brand-purple" />,
       title: "Location",
-      details: "Bengaluru, Karnataka, India",
-      link: "https://maps.google.com/?q=Bengaluru",
+      details: "Texas, US",
+      link: "https://maps.google.com/?q=Texas,US",
     },
   ];
 
