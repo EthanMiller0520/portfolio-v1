@@ -15,39 +15,39 @@ const Academics = () => {
   const education = [
     {
       id: 1,
-      institution: "Presidency University, Bengaluru",
+      institution: "College of the Mainland, Texas",
       degree: "Bachelor of Technology (B.Tech)",
-      field: "Computer Science & Engineering (Specialization in AI & ML)",
+      field: "Computer Science & Engineering (Specialization in Web development)",
       duration: "2021 - Present",
-      location: "Bengaluru, Karnataka",
+      location: "Texas",
       cgpa: "In Progress",
       details: [
         "Specializing in Artificial Intelligence and Machine Learning",
-        "Key courses include Data Structures, Algorithms, Machine Learning",
+        "Key courses include Web development, Algorithms, Machine Learning",
         "Actively participating in research projects related to AI/ML"
       ]
     },
+    // {
+    //   id: 2,
+    //   institution: "MES Kishora Kendra",
+    //   degree: "Pre-University College",
+    //   field: "Science Stream",
+    //   duration: "2019 - 2021",
+    //   location: "Bengaluru, Karnataka",
+    //   cgpa: "8.5",
+    //   details: [
+    //     "Major subjects included Physics, Mathematics, Chemistry, Computer Science",
+    //     "Highlights: Advanced Mathematics & Computer Science",
+    //     "Developed strong foundation in scientific principles and programming"
+    //   ]
+    // },
     {
       id: 2,
-      institution: "MES Kishora Kendra",
-      degree: "Pre-University College",
-      field: "Science Stream",
-      duration: "2019 - 2021",
-      location: "Bengaluru, Karnataka",
-      cgpa: "8.5",
-      details: [
-        "Major subjects included Physics, Mathematics, Chemistry, Computer Science",
-        "Highlights: Advanced Mathematics & Computer Science",
-        "Developed strong foundation in scientific principles and programming"
-      ]
-    },
-    {
-      id: 3,
-      institution: "Nelamangala, Bengaluru",
+      institution: "Texas",
       degree: "Secondary High School",
       field: "NCERT-based Curriculum",
       duration: "2012 - 2019",
-      location: "Bengaluru, Karnataka",
+      location: "Texas",
       cgpa: "9.09",
       details: [
         "Strong foundation in Science",

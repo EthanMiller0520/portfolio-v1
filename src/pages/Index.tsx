@@ -18,7 +18,7 @@ const Index = () => {
       image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8",
       tags: ["Python", "Machine Learning", "AI"],
       link: "/projects",
-      code: "https://github.com/oxBinaryBrain/An_Income_Tax_Fraud_Detection_Using_AI-ML"
+      code: "https://github.com/EthanMiller0520An_Income_Tax_Fraud_Detection_Using_AI-ML"
     },
     {
       title: "Oral Cancer Classification using Neural Networks",
@@ -26,7 +26,7 @@ const Index = () => {
       image: "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8",
       tags: ["Python", "TensorFlow", "Neural Networks"],
       link: "/projects",
-      code: "https://github.com/oxBinaryBrain/Oral_Cancer_Classification"
+      code: "https://github.com/EthanMiller0520Oral_Cancer_Classification"
     },
     {
       title: "Credit Card Fraud Detection",
@@ -34,17 +34,17 @@ const Index = () => {
       image: "https://images.unsplash.com/photo-1563013544-824ae1b704d3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8",
       tags: ["Python", "ML", "Data Science"],
       link: "/projects",
-      code: "https://github.com/oxBinaryBrain/CC-Fraud-Detection"
+      code: "https://github.com/EthanMiller0520CC-Fraud-Detection"
     },
   ];
 
   const techStack = [
     { name: "Python", proficiency: 90 },
-    { name: "JavaScript", proficiency: 85 },
-    { name: "React.js", proficiency: 80 },
-    { name: "Node.js", proficiency: 75 },
-    { name: "Firebase", proficiency: 70 },
-    { name: "Next.js", proficiency: 65 },
+    { name: "JavaScript", proficiency: 99 },
+    { name: "React.js", proficiency: 95 },
+    { name: "Node.js", proficiency: 98 },
+    { name: "Firebase", proficiency: 90 },
+    { name: "Next.js", proficiency: 95 },
   ];
 
   return (

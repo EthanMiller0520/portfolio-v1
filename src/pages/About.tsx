@@ -13,13 +13,13 @@ const About = () => {
   const skills = [
     { name: "Python", level: "Advanced" },
     { name: "JavaScript", level: "Advanced" },
-    { name: "React.js", level: "Intermediate" },
-    { name: "Node.js", level: "Intermediate" },
-    { name: "Next.js", level: "Intermediate" },
+    { name: "React.js", level: "Advanced" },
+    { name: "Node.js", level: "Advanced" },
+    { name: "Next.js", level: "Advanced" },
     { name: "C++", level: "Intermediate" },
     { name: "Machine Learning", level: "Intermediate" },
-    { name: "CSS", level: "Intermediate" },
-    { name: "Blockchain", level: "Beginner" },
+    { name: "CSS", level: "Advanced" },
+    { name: "Blockchain", level: "Advanced" },
     { name: "AI", level: "Intermediate" },
   ];
 
@@ -79,7 +79,7 @@ const About = () => {
                   I'm <motion.span 
                     className="text-brand-purple font-semibold"
                     whileHover={{ color: "#8B5CF6" }}
-                  >Uday G</motion.span>, a Computer Science student specializing in AI & Machine Learning at Presidency University, Bengaluru.
+                  >Ethan Miller</motion.span>, a Computer Science student specializing in AI & Machine Learning at Presidency University, Bengaluru.
                 </p>
                 <p>
                   My journey in programming began with an interest in solving complex problems. This led me to explore various programming languages and technologies, with a focus on web development and artificial intelligence.

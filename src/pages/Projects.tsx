@@ -30,7 +30,7 @@ const Projects = () => {
       description: "Developed a system to detect fraudulent activities in income tax filings using AI and machine learning techniques. Implemented data preprocessing, feature engineering, and model training.",
       image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8",
       tags: ["Python", "Machine Learning", "AI"],
-      code: "https://github.com/oxBinaryBrain/An_Income_Tax_Fraud_Detection_Using_AI-ML",
+      code: "https://github.com/EthanMiller0520An_Income_Tax_Fraud_Detection_Using_AI-ML",
       category: "ai"
     },
     {
@@ -39,7 +39,7 @@ const Projects = () => {
       description: "Developing a machine learning model to detect and classify oral cancer levels from images. It involves data collection, preprocessing, feature extraction, and model evaluation.",
       image: "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8",
       tags: ["Python", "TensorFlow", "Neural Networks"],
-      code: "https://github.com/oxBinaryBrain/Oral_Cancer_Classification",
+      code: "https://github.com/EthanMiller0520Oral_Cancer_Classification",
       category: "ai"
     },
     {
@@ -48,7 +48,7 @@ const Projects = () => {
       description: "A simple machine learning model which analyzes whether a credit card transaction is fraudulent or not. The dataset is downloaded from Kaggle and processed for analysis.",
       image: "https://images.unsplash.com/photo-1563013544-824ae1b704d3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8",
       tags: ["Python", "Machine Learning", "Data Science"],
-      code: "https://github.com/oxBinaryBrain/CC-Fraud-Detection",
+      code: "https://github.com/EthanMiller0520CC-Fraud-Detection",
       category: "ai"
     },
     {
@@ -57,7 +57,7 @@ const Projects = () => {
       description: "A python package to run contextualized topic modeling. CTMs combine contextualized embeddings (e.g., BERT) with topic models to get coherent topics and document classification.",
       image: "https://images.unsplash.com/photo-1487058792275-0ad4aaf24ca7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8",
       tags: ["Python", "NLP", "Machine Learning"],
-      code: "https://github.com/oxBinaryBrain/contextualized-topic-models",
+      code: "https://github.com/EthanMiller0520contextualized-topic-models",
       category: "ai"
     },
     {
@@ -66,7 +66,7 @@ const Projects = () => {
       description: "A full-stack e-commerce platform with user authentication, product catalog, and payment processing.",
       image: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&w=800&q=80",
       tags: ["JavaScript", "Node.js", "React", "MongoDB"],
-      code: "https://github.com/oxBinaryBrain/E-commerce",
+      code: "https://github.com/EthanMiller0520E-commerce",
       category: "web"
     },
     {
@@ -75,7 +75,7 @@ const Projects = () => {
       description: "A responsive personal portfolio website showcasing projects and skills.",
       image: "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=800&q=80",
       tags: ["React", "Node", "HTML","CSS"],
-      code: "https://github.com/oxBinaryBrain/Portfolio_V1",
+      code: "https://github.com/EthanMiller0520Portfolio_V1",
       category: "web"
     },
     {
@@ -84,7 +84,7 @@ const Projects = () => {
       description: "A web interface for exploring blockchain data and transactions.",
       image: "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
       tags: ["JavaScript", "React", "Blockchain", "Web3.js"],
-      code: "https://github.com/oxBinaryBrain/Software-solution-to-identify-the-end-receiver-of-a-cryptocurrency-transaction",
+      code: "https://github.com/EthanMiller0520Software-solution-to-identify-the-end-receiver-of-a-cryptocurrency-transaction",
       category: "blockchain"
     },
     {
@@ -93,7 +93,7 @@ const Projects = () => {
       description: "A dashboard for monitoring and controlling smart home devices.",
       image: "https://images.unsplash.com/photo-1558346490-a72e53ae2d4f?auto=format&fit=crop&w=800&q=80",
       tags: ["C", "IoT", "NArdiuno"],
-      code: "https://github.com/oxBinaryBrain/Ardiuno",
+      code: "https://github.com/EthanMiller0520Ardiuno",
       category: "iot"
     }
   ];

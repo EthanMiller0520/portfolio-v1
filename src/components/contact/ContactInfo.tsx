@@ -22,7 +22,7 @@ const ContactInfo = () => {
     {
       icon: <Github className="h-5 w-5" />,
       name: "GitHub",
-      url: "https://github.com/oxBinaryBrain/",
+      url: "https://github.com/EthanMiller0520",
     },
     {
       icon: <Linkedin className="h-5 w-5" />,

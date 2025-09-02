@@ -121,7 +121,7 @@ const HeroSection = () => {
                   backgroundSize: "200% 200%"
                 }}
               >
-                Uday G
+                Ethan Miller
               </motion.span>
             </motion.h1>
             
