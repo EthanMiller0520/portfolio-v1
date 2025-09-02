@@ -18,15 +18,15 @@ console.log("=== INITIALIZING FIREBASE ===");
 
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
-console.log("✅ Firebase app initialized");
+console.log("Firebase app initialized");
 
 // Initialize Firestore
 export const db = getFirestore(app);
-console.log("✅ Firestore initialized");
+console.log("Firestore initialized");
 
 // Initialize Firebase Auth
 export const auth = getAuth(app);
-console.log("✅ Firebase Auth initialized");
+console.log("Firebase Auth initialized");
 
 console.log("=== FIREBASE SETUP COMPLETE ===");
 
