@@ -16,7 +16,7 @@ const About = () => {
     { name: "React.js", level: "Advanced" },
     { name: "Node.js", level: "Advanced" },
     { name: "Next.js", level: "Advanced" },
-    { name: "C++", level: "Intermediate" },
+    { name: "C++", level: "Advanced" },
     { name: "Machine Learning", level: "Intermediate" },
     { name: "CSS", level: "Advanced" },
     { name: "Blockchain", level: "Advanced" },

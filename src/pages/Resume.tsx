@@ -29,21 +29,21 @@ const Resume = () => {
   const [activeTab, setActiveTab] = useState("skills");
 
   const education = [
+    // {
+    //   institution: "Presidency University, Texas",
+    //   degree: "Bachelor of Technology (B.Tech)",
+    //   field: "Computer Science & Engineering (AI & ML)",
+    //   duration: "20 - 2025",
+    //   gpa: "3.0/4.0",
+    //   location: "Texas, US",
+    // },
     {
-      institution: "Presidency University, Bengaluru",
-      degree: "Bachelor of Technology (B.Tech)",
-      field: "Computer Science & Engineering (AI & ML)",
-      duration: "2021 - 2025",
-      gpa: "3.0/4.0",
-      location: "Bengaluru, India",
-    },
-    {
-      institution: "MES Kishora Kendra, Bengaluru",
+      institution: "MES Kishora Kendra, Texas",
       degree: "Pre-University College",
-      field: "Science Stream",
-      duration: "2019 - 2021",
-      gpa: "85%",
-      location: "Bengaluru, India",
+      field: "Science Stream, Software Development",
+      duration: "2009 - 2013",
+      gpa: "87%",
+      location: "Texas, US",
     },
   ];
 

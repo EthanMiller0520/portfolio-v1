@@ -119,7 +119,7 @@ export const Layout = ({ children }: LayoutProps) => {
             </div>
           </div>
           <div className="text-muted-foreground text-sm text-center mt-8">
-            © {new Date().getFullYear()} E M. All rights reserved.
+            © {new Date().getFullYear()} E. M. All rights reserved.
           </div>
         </div>
       </footer>

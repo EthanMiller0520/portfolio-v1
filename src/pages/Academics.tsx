@@ -18,7 +18,7 @@ const Academics = () => {
       institution: "College of the Mainland, Texas",
       degree: "Bachelor of Technology (B.Tech)",
       field: "Computer Science & Engineering (Specialization in Web development)",
-      duration: "2021 - Present",
+      duration: "2009 - 2013",
       location: "Texas",
       cgpa: "In Progress",
       details: [
@@ -46,7 +46,7 @@ const Academics = () => {
       institution: "Texas",
       degree: "Secondary High School",
       field: "NCERT-based Curriculum",
-      duration: "2012 - 2019",
+      duration: "2001- 2008",
       location: "Texas",
       cgpa: "9.09",
       details: [
